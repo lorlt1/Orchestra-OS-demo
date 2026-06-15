@@ -1,0 +1,10 @@
+{
+  "name": "skill-management",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "check": "node --check src/app.js",
+    "smoke": "node scripts/smoke.mjs"
+  }
+}
